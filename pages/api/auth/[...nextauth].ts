@@ -8,7 +8,7 @@ import SpotifyProvider from "next-auth/providers/spotify";
 // import AppleProvider from "next-auth/providers/apple"
 // import EmailProvider from "next-auth/providers/email"
 
-// For mor information on each option (and a full list of options) go to
+// For mor info on each option (and a full list of options) go to
 // https://next-auth.js.org/configuration/options
 export const authOptions: NextAuthOptions = {
   // https://next-auth.js.org/configuration/providers/oauth
